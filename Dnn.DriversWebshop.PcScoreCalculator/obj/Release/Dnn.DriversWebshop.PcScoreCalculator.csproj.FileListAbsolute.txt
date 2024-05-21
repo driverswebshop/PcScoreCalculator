@@ -1,0 +1,10 @@
+C:\Users\damja\Documents\Egyetem\RF\DNN\DesktopModules\bin\Dnn.DriversWebshop.PcScoreCalculator.dll.config
+C:\Users\damja\Documents\Egyetem\RF\DNN\DesktopModules\bin\Dnn.DriversWebshop.PcScoreCalculator.dll
+C:\Users\damja\Documents\Egyetem\RF\DNN\DesktopModules\bin\Dnn.DriversWebshop.PcScoreCalculator.pdb
+C:\Users\damja\Documents\Egyetem\RF\DNN\DesktopModules\MVC\module-pcscore\Dnn.DriversWebshop.PcScoreCalculator\obj\Release\Dnn.DriversWebshop.PcScoreCalculator.csproj.AssemblyReference.cache
+C:\Users\damja\Documents\Egyetem\RF\DNN\DesktopModules\MVC\module-pcscore\Dnn.DriversWebshop.PcScoreCalculator\obj\Release\DriversWebshop.Dnn.Dnn.DriversWebshop.PcScoreCalculator.App_LocalResources.Settings.resources
+C:\Users\damja\Documents\Egyetem\RF\DNN\DesktopModules\MVC\module-pcscore\Dnn.DriversWebshop.PcScoreCalculator\obj\Release\Dnn.DriversWebshop.PcScoreCalculator.csproj.GenerateResource.cache
+C:\Users\damja\Documents\Egyetem\RF\DNN\DesktopModules\MVC\module-pcscore\Dnn.DriversWebshop.PcScoreCalculator\obj\Release\Dnn.DriversWebshop.PcScoreCalculator.csproj.CoreCompileInputs.cache
+C:\Users\damja\Documents\Egyetem\RF\DNN\DesktopModules\MVC\module-pcscore\Dnn.DriversWebshop.PcScoreCalculator\obj\Release\Dnn.Driv.A145003A.Up2Date
+C:\Users\damja\Documents\Egyetem\RF\DNN\DesktopModules\MVC\module-pcscore\Dnn.DriversWebshop.PcScoreCalculator\obj\Release\Dnn.DriversWebshop.PcScoreCalculator.dll
+C:\Users\damja\Documents\Egyetem\RF\DNN\DesktopModules\MVC\module-pcscore\Dnn.DriversWebshop.PcScoreCalculator\obj\Release\Dnn.DriversWebshop.PcScoreCalculator.pdb

@@ -1,0 +1,75 @@
+﻿@inherits DotNetNuke.Web.Mvc.Framework.DnnWebViewPage<DriversWebshop.Dnn.Dnn.DriversWebshop.PcScoreCalculator.Models.BenchmarkViewModel>
+
+@using System.Text.RegularExpressions
+@using DotNetNuke.Web.Mvc.Helpers
+
+<<div id="Items-@Dnn.ModuleContext.ModuleId">
+    <h2>Benchmarks</h2>
+
+    <h3>CPU Benchmarks</h3>
+    <table>
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Score</th>
+                <th>Percentage</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var cpu in Model.CpuBenchmarks)
+            {
+                <tr>
+                    <td>@cpu.Id</td>
+                    <td>@cpu.Name</td>
+                    <td>@cpu.Score</td>
+                    <td>@cpu.Percentage%</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <h3>GPU Benchmarks</h3>
+    <table>
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Percentage</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var gpu in Model.GpuBenchmarks)
+            {
+                <tr>
+                    <td>@gpu.Id</td>
+                    <td>@gpu.Name</td>
+                    <td>@gpu.Percentage%</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <h3>RAM Benchmarks</h3>
+    <table>
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Speed</th>
+                <th>Percentage</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var ram in Model.RamBenchmarks)
+            {
+                <tr>
+                    <td>@ram.Id</td>
+                    <td>@ram.Name</td>
+                    <td>@ram.Speed</td>
+                    <td>@ram.Percentage%</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
